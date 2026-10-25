@@ -1,0 +1,6 @@
+{
+  "name": "Google Search Central AI Skill Studio",
+  "description": "Complete modular AI coding skill, 78-point sidebar coverage checklist, and ZIP exporter distilled from Google Search Central documentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
